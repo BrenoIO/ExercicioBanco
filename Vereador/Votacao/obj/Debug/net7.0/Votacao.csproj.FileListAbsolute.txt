@@ -1,0 +1,15 @@
+E:\Programação\C#\Git\Votação\Votacao\bin\Debug\net7.0\Votacao.exe
+E:\Programação\C#\Git\Votação\Votacao\bin\Debug\net7.0\Votacao.deps.json
+E:\Programação\C#\Git\Votação\Votacao\bin\Debug\net7.0\Votacao.runtimeconfig.json
+E:\Programação\C#\Git\Votação\Votacao\bin\Debug\net7.0\Votacao.dll
+E:\Programação\C#\Git\Votação\Votacao\bin\Debug\net7.0\Votacao.pdb
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.csproj.AssemblyReference.cache
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.AssemblyInfoInputs.cache
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.AssemblyInfo.cs
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.dll
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\refint\Votacao.dll
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.pdb
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\Votacao.genruntimeconfig.cache
+E:\Programação\C#\Git\Votação\Votacao\obj\Debug\net7.0\ref\Votacao.dll
