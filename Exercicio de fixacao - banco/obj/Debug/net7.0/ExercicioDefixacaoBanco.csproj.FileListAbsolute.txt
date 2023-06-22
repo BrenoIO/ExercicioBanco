@@ -1,0 +1,15 @@
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\bin\Debug\net7.0\ExercicioDefixacaoBanco.exe
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\bin\Debug\net7.0\ExercicioDefixacaoBanco.deps.json
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\bin\Debug\net7.0\ExercicioDefixacaoBanco.runtimeconfig.json
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\bin\Debug\net7.0\ExercicioDefixacaoBanco.dll
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\bin\Debug\net7.0\ExercicioDefixacaoBanco.pdb
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.csproj.AssemblyReference.cache
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.AssemblyInfoInputs.cache
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.AssemblyInfo.cs
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.dll
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\refint\ExercicioDefixacaoBanco.dll
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.pdb
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ExercicioDefixacaoBanco.genruntimeconfig.cache
+E:\Programação\C#\Projetos - Estudos\Seção5 Construtores,this,sobrecarga,encapsulamento\Exercicio de fixacao - banco\obj\Debug\net7.0\ref\ExercicioDefixacaoBanco.dll
